@@ -1,0 +1,38 @@
+.main{
+    border: solid 10px white;
+    padding: 20px;
+    background:aquamarine; 
+    margin: 50px 150px;
+    box-sizing: border-box;
+}
+
+#contain{
+       border:2px groove yellow;
+       padding: 2px 20px 2px;
+       background-color: bisque;
+       margin:auto;
+}
+
+#date{
+    font-family: sans-serif;
+}
+
+#title{
+    color:dimgrey;
+}
+
+#p1{
+    border-left: 10px solid orange;
+    padding-left: 5px;
+}
+
+
+#p1,#p2,#p3{
+    color:black;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+hr{
+    box-shadow:inset  100px 12px 12px -12px rgba(234,235,9,0.8);
+}
