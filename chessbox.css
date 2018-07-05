@@ -1,0 +1,32 @@
+header h1{
+    text-align:center; 
+}
+
+footer h4{
+    text-align:center; 
+}
+
+.tab1{
+    margin:auto;
+    border: 1px black solid;
+}
+
+td:hover{
+    
+    border: red 1px solid;
+
+}
+
+.white{
+    height:50px;
+    width:50px;
+    background:white;
+    float:left;
+}
+
+.black{
+    height:50px;
+    width:50px;
+    background:black;
+    
+}
